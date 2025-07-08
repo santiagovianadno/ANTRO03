@@ -1,0 +1,7 @@
+mediapipe==0.10.8
+opencv-python==4.10.0.82
+pygame==2.5.2
+PyOpenGL==3.1.6
+numpy>=1.24
+plyfile==0.9 
+sounddevice==0.5.2 
