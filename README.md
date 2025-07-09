@@ -4,7 +4,7 @@ Este proyecto permite visualizar un modelo 3D en **formato `.ply`** y controlarl
 
 ## Requisitos
 
-1. Python ≥ 3.10
+1. Python = 3.10
 2. Tarjeta gráfica compatible con OpenGL 2.1 (o superior)
 3. Webcam HD (integrada o USB)
 4. Sistema operativo Windows 10/11, macOS o Linux
